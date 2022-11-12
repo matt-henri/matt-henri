@@ -13,6 +13,8 @@
 
 <br>
 
+<p>Atualmente estou estudando HTML, CSS e iniciando os estudos em Javascript. Estou focado em me desenvolver no front-end.</p>
+
 ## Tecnologias que uso no meu dia
 
 <div> 
