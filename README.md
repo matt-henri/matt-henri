@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Mateus H. ✌️
 
+<p>Atualmente estou estudando HTML, CSS e iniciando os estudos em Javascript. Estou focado em me desenvolver no front-end.</p>
+
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt_henrii/?hl=pt-br)
@@ -13,7 +15,7 @@
 
 <br>
 
-<p>Atualmente estou estudando HTML, CSS e iniciando os estudos em Javascript. Estou focado em me desenvolver no front-end.</p>
+
 
 ## Tecnologias que uso no meu dia
 
