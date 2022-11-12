@@ -6,7 +6,7 @@
 
 <br>
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-henri&show_icons=true&theme=merko)
+![Matt GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-henri&show_icons=true&theme=merko)
 
 <br>
 
