@@ -9,7 +9,7 @@
 <br>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matt-henri&show_icons=true&theme=merko" alt="matt status"/)>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matt-henri&show_icons=true&theme=dark" alt="matt status"/)>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-henri&layout=compact&true&theme=dark" alt="matt status"/)>
 </p>
 
