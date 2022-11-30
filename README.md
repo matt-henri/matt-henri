@@ -1,8 +1,5 @@
 <style>
-    #icon {
-        widith: 100px;
-        height: 200px;
-    }
+   
 </style>
 
 <br>
