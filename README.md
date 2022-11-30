@@ -16,11 +16,10 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=matt-henri&show_icons=true&theme=dark" alt="matt status"/)>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-henri&layout=compact&true&theme=dark" alt="matt status"/)>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-henri&layout=compact)](https://github.com/matt-henri/github-readme-stats"/)>
 </p>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que uso no meu dia
