@@ -1,7 +1,3 @@
-<style>
-   
-</style>
-
 <br>
 
 ![tum](https://user-images.githubusercontent.com/110043609/202230007-7ad2516d-ec64-41e1-8914-b212d1e2e86c.png)
