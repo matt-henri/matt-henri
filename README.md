@@ -4,7 +4,7 @@
 
 ### Olá! Eu sou o Mateus H. ✌️
 
-<p>Atualmente estou estudando HTML, CSS e iniciando os estudos em Javascript. Estou focado em me desenvolver no front-end.</p>
+<p>Atualmente estou estudando HTML, CSS, Javascript e JAVA. Estou focado em me desenvolver no Back-end.</p>
 
 <br>
 
