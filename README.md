@@ -1,32 +1,95 @@
 <br>
 
-![tum](https://user-images.githubusercontent.com/110043609/202230007-7ad2516d-ec64-41e1-8914-b212d1e2e86c.png)
+<div>
+ <h1>🧑🏻‍💻 Mateus Henrique </h1>
+</div>
 
-### Olá! Eu sou o Mateus H. ✌️
 
-<p>Atualmente estou estudando HTML, CSS, Javascript e JAVA. Estou focado em me desenvolver no Back-end.</p>
-
-<br>
+<p>Sou estudante de Sistemas de Informação pela Uninter, com interesse em banco de dados e desenvolvimento full stack.</p>
+<p>Atualmente também estudo inglês para aprimorar minha formação.</p>
+<p>Tenho grande interesse na área de tecnologia e em aprendizado contínuo.</p>
+<p>Este espaço reúne trabalhos acadêmicos, portfólios de projetos pessoais e estudos.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt_henrii/?hl=pt-br)
-
 <br>
+<br>
+<h2>
+   Linguagens e Tecnologias
+</h2>
+<div>
+  
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matt-henri&show_icons=true&count_private=true&hide_border=true&title_color=276bff&icon_color=276bff&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-henri&layout=compact&hide_border=true&title_color=276bff&text_color=c9d1d9&bg_color=0d1117" />
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 </div>
 
+
+
+<br>
 <br>
 
+<h2> Estatísticas</h2>
 
-## Tecnologias que uso no meu dia
+<div>
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<div id="icon"> 
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-        
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 </div>
+
+
+
+
+
