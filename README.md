@@ -10,7 +10,9 @@
 <p>Tenho grande interesse na área de tecnologia e em aprendizado contínuo.</p>
 <p>Este espaço reúne trabalhos acadêmicos, portfólios de projetos pessoais e estudos.</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt_henrii/?hl=pt-br)
+
+<a href="https://www.instagram.com/matt_henrii/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mateus-henrique-923330274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <br>
 <br>
 <h2>
