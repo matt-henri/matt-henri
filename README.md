@@ -11,8 +11,8 @@
 <p>Este espaço reúne trabalhos acadêmicos, portfólios de projetos pessoais e estudos.</p>
 
 
-<a href="https://www.instagram.com/matt_henrii/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mateus-henrique-923330274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.instagram.com/matt_henrii/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-henrique-923330274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 <br>
 <h2>
@@ -20,6 +20,15 @@
 </h2>
 <div>
   
+  
+ <img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"
+/>       
 
 <img 
     align="left" 
