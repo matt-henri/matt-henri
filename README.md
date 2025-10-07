@@ -33,6 +33,18 @@
 <br>
 
 
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matt-henri&card_width=500&theme=dark#gh-dark-mode-only" />
+
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-henri&layout=compact&langs_count=8&card_width=500&theme=dark#gh-dark-mode-only" />
+
+ 
+
+
+
+
+
 <div>
  
 <h3> Contato </h3>
