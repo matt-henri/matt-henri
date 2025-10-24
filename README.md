@@ -23,11 +23,11 @@
 
   <h3> Frameworks e bibliotecas </h3>
  
- [![My Skills](https://skillicons.dev/icons?i=spring,laravel,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=spring,laravel,nodejs)](https://skillicons.dev)
 
   <h3> Ferramentas de desenvolvimento </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm)](https://skillicons.dev)
   
  </div>
 <br>
