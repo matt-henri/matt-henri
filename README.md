@@ -19,17 +19,17 @@
 </h2>
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,py,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql)](https://skillicons.dev)
 
-  <h3> Frameworks e bibliotecas </h3>
+  <h3> Frameworks e CMS </h3>
  
- [![My Skills](https://skillicons.dev/icons?i=spring,laravel,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=wordpress,laravel,spring,nodejs)](https://skillicons.dev)
 
   <h3> Ferramentas de desenvolvimento </h3>
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm)](https://skillicons.dev)
   
- </div>
+</div>
 <br>
 
 <div>
