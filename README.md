@@ -9,8 +9,6 @@
 <p>Este espaço reúne trabalhos acadêmicos, portfólios de projetos pessoais e estudos.</p>
 
 **Acesse meu Portfolio:** https://portfolio-dev-mateus.vercel.app/
-<img width="807" height="481" alt="portfolio" src="https://github.com/user-attachments/assets/0da9a1ba-6f5a-4392-9f7c-c978906ac7cc" />
-
 
 <h2>
    Linguagens e Tecnologias
