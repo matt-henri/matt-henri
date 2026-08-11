@@ -1,11 +1,10 @@
-<div>
- <h1>Mateus Henrique </h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00E5FF&height=250&section=header&text=Mateus%20Henrique&fontSize=50&fontAlignY=35&desc=Developer%20FullStack&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Banner Mateus"/>
 </div>
 
-
+<p>Trabalho com Desenvolvimento Wordpress, PHP, CRM e Banco de Dados.</p>
 <p>Sou estudante de Sistemas de Informação pela Uninter, com interesse em banco de dados e desenvolvimento full stack.</p>
 <p>Atualmente também estudo inglês para aprimorar minha formação.</p>
-<p>Tenho grande interesse na área de tecnologia e em aprendizado contínuo.</p>
 <p>Este espaço reúne trabalhos acadêmicos, portfólios de projetos pessoais e estudos.</p>
 
 **Acesse meu Portfolio:** https://portfolio-dev-mateus.vercel.app/
